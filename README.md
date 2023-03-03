@@ -15,6 +15,7 @@ Develop and evaluate machine learning models using regression, random forest, an
 Python - For data analysis and machine learning.
 Excel - For data cleaning, transformation, and visualization.
 SQL - For data management and retrieval.
+Tableau - For Data visualization and Dashboards
 
 
 ## Conclusion:
