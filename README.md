@@ -18,7 +18,7 @@ Excel - For data cleaning, transformation, and visualization.
 
 SQL - For data management and retrieval.
 
-Tableau - For Data visualization and Dashboards
+Tableau - For Data reporting.
 
 
 
